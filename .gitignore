@@ -1,0 +1,7 @@
+#忽略vscode配置文件
+.vscode/
+
+#忽略build
+build/
+
+.DS_Store
